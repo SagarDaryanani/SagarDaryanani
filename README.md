@@ -4,7 +4,7 @@
 
 A recent biology graduate with a passion for Data Science! 
 
-Please connect with me on LinkedIn [here](https://www.linkedin.com/in/sagar-daryanani-6998331a2/)! 😊
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/sagar-daryanani-6998331a2/)! 😊
 
 <!---
 SagarDaryanani/SagarDaryanani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
