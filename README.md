@@ -3,6 +3,7 @@
 
 A recent biology graduate with a passion for Data Science! 
 
+Please connect with me on LinkedIn at Sagar Daryanani 😊
 
 <!---
 SagarDaryanani/SagarDaryanani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
