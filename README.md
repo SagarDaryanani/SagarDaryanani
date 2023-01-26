@@ -2,6 +2,9 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+SiMysql
+
+
 A recent biology graduate with a passion for Data Science! 
 
 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sagar-daryanani-6998331a2/)! 😊
