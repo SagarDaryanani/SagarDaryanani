@@ -5,8 +5,9 @@ A recent biology graduate with a passion for Data Science!
 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sagar-daryanani-6998331a2/)! 😊
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
+<h4 align="center">Languages I'm Familiar With:</h4>
+<p align="center"> 
 
-Languages I'm familiar with:
 <h4 align="center">Data Analysis</h4>
 <p align="center"> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
