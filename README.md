@@ -1,20 +1,26 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
+<p align="center"> 
+A recent biology graduate with a passion for Data Science!
+Connect with me 😊
 
-A recent biology graduate with a passion for Data Science! 
+<p align="center"> 
+<a href="https://www.linkedin.com/in/sagar-daryanani-6998331a2/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/NNbMO__linkedin-logo-2013.svg" alt="python" width="100" height="100"/> </a>
 
-Connect with me on LinkedIn [here](https://www.linkedin.com/in/sagar-daryanani-6998331a2/)! 😊
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
-<h4 align="center">Languages I'm Familiar With:</h4>
 <p align="center"> 
+<h4 align="center">Languages I'm Familiar With:</h4>
+
 
 <h4 align="center">Data Analysis</h4>
-<p align="center"> 
+<p align="center">  
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bS62G__mysql.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
@@ -29,12 +35,15 @@ Connect with me on LinkedIn [here](https://www.linkedin.com/in/sagar-daryanani-6
 <h4 align="center">MLOps</h4>
 <p align="center"> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+ <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="gcp" width="40" height="40"/> </a> 
+ <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/icon.svg" alt="mlflow" width="40" height="40"/> </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
 </p>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SagarDaryanani&label=Profile%20views&color=0e75b6&style=flat" alt="SagarDaryanani" /> </p>
+
+
 
 <!---
 SagarDaryanani/SagarDaryanani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
