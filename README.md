@@ -1,4 +1,5 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <p align="center"> 
 A recent biology graduate with a passion for Data Science!
 Connect with me 😊
@@ -8,10 +9,10 @@ Connect with me 😊
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <p align="center"> 
-<h4 align="center">Languages I'm Familiar With:</h4>
+<h4 align="center"> SKILLS </h4>
 
 
 <h4 align="center">Data Analysis</h4>
@@ -20,8 +21,9 @@ Connect with me 😊
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bS62G__mysql.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> 
+ <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a> 
+<p align="center">   
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
    <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40"/> </a> 
@@ -48,7 +50,9 @@ Connect with me 😊
 <a href="https://trello.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/5XkbU__trello.svg" alt="Trello" width="40" height="40"/> </a>
 
  
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SagarDaryanani&label=Profile%20views&color=0e75b6&style=flat" alt="SagarDaryanani" /> </p>
 
