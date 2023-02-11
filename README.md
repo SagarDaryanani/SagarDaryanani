@@ -1,8 +1,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <p align="center"> 
-A recent biology graduate with a passion for Data Science!
-Connect with me 😊
+A BSc graduate with a passion for Data Science and Consulting!
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/sagar-daryanani-6998331a2/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/NNbMO__linkedin-logo-2013.svg" alt="linkedin" width="100" height="100"/> </a>
